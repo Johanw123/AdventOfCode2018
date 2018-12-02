@@ -1,0 +1,10 @@
+/Users/johan/RiderProjects/AoC2018/AdventOfCode2018/AdventOfCode2018/bin/Debug/netcoreapp2.0/AdventOfCode2018.deps.json
+/Users/johan/RiderProjects/AoC2018/AdventOfCode2018/AdventOfCode2018/bin/Debug/netcoreapp2.0/AdventOfCode2018.runtimeconfig.json
+/Users/johan/RiderProjects/AoC2018/AdventOfCode2018/AdventOfCode2018/bin/Debug/netcoreapp2.0/AdventOfCode2018.runtimeconfig.dev.json
+/Users/johan/RiderProjects/AoC2018/AdventOfCode2018/AdventOfCode2018/bin/Debug/netcoreapp2.0/AdventOfCode2018.dll
+/Users/johan/RiderProjects/AoC2018/AdventOfCode2018/AdventOfCode2018/bin/Debug/netcoreapp2.0/AdventOfCode2018.pdb
+/Users/johan/RiderProjects/AoC2018/AdventOfCode2018/AdventOfCode2018/obj/Debug/netcoreapp2.0/AdventOfCode2018.csproj.CoreCompileInputs.cache
+/Users/johan/RiderProjects/AoC2018/AdventOfCode2018/AdventOfCode2018/obj/Debug/netcoreapp2.0/AdventOfCode2018.AssemblyInfoInputs.cache
+/Users/johan/RiderProjects/AoC2018/AdventOfCode2018/AdventOfCode2018/obj/Debug/netcoreapp2.0/AdventOfCode2018.AssemblyInfo.cs
+/Users/johan/RiderProjects/AoC2018/AdventOfCode2018/AdventOfCode2018/obj/Debug/netcoreapp2.0/AdventOfCode2018.dll
+/Users/johan/RiderProjects/AoC2018/AdventOfCode2018/AdventOfCode2018/obj/Debug/netcoreapp2.0/AdventOfCode2018.pdb
